@@ -1,5 +1,5 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
-
+MathGuid.com
 # Lab | Statistics Foundations
 In this lab we are going to put into practice what we learned about the foundations of statistics. You won't need to use Python, just your brain and a little bit of *Markdown*. 
 
